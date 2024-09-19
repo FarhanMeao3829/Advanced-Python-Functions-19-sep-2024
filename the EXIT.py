@@ -3,4 +3,4 @@ for i in range(0,10):
         print(exit)
         exit()
         
-print(i)
+    print(i)
